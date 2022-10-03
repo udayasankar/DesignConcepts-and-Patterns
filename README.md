@@ -1,4 +1,18 @@
 # DesignConcepts-and-Patterns
+***********************************************************************************************************************************************************************
+Architectural Styles vs. Architectural Patterns vs. Design Patterns
+Chapter 3: Architectural Patterns and Styles: https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)?redirectedfrom=MSDN
+
+https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
+https://herbertograca.com/dev-theory-articles-listing/
+
+https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
+
+https://en.wikipedia.org/wiki/Software_design_pattern
+
+https://en.wikipedia.org/wiki/Software_design_pattern
+
 
 ********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
